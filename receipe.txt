@@ -3,6 +3,10 @@ welcome to our restaurant
 kheer
 pasta
 chicken fry
+
+
+beans
+pizza
       
       
       
